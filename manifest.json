@@ -15,5 +15,10 @@
     "preview_url_at": "2026-01-30T17:08:09.479622+00:00"
   },
   "notes": [],
-  "updated_at": "2026-01-30T17:08:10.627375+00:00"
+  "updated_at": "2026-02-18T12:05:34.100535+00:00",
+  "deployed_url": "https://storage.googleapis.com/metaphi-agent/figma-claude_code-agent/9674e37a-e5d7-4acd-99ca-e75d7acbc5be/index.html",
+  "preview_url": "https://ta-01khra66s0zm034wfaawvnwccf-5173.wo-98t2nfl8sadn6f2bikeisg54b.w.modal.host",
+  "completed_steps": [
+    "Step 7: Deploy & Push"
+  ]
 }
